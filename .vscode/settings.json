@@ -1,7 +1,7 @@
 {
   "editor.codeActionsOnSave": {
     // For ESLint
-    "source.fixAll.eslint": false,
+    "source.fixAll.eslint": true,
     // For TSLint
     // "source.fixAll.tslint": true,
     // For Stylelint
